@@ -1,0 +1,4 @@
+msal
+requests
+tkinterdnd2
+pyinstaller; platform_system == "Windows"  # optional, for building the exe
